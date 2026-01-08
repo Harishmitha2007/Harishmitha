@@ -14,6 +14,9 @@
  - VS Code
   
  - Figma
+   
+ -  Google Colab, Jupyter Notebook  
+
 
 # 🚀Goals
   - Become confident in frontend development
