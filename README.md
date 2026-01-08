@@ -30,7 +30,14 @@
 
   ## 📊 GitHub Stats
 
-![Harishmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishmitha&show_icons=true&theme=default)
+![Harishmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishmitha2007&show_icons=true&theme=default)
+## 🔥 Contribution Streak
+
+   ![GitHub Streak](https://streak-stats.demolab.com?user=Harishmitha2007)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harishmitha2007&theme=dark)
+
+
 
 
 ⭐ **Thank you for visiting my GitHub profile!** 
