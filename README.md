@@ -28,14 +28,10 @@
    
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Harishmitha2007)
 
-  ## 📊 GitHub Stats
-
-![Harishmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishmitha2007&show_icons=true&theme=default)
 ## 🔥 Contribution Streak
 
    ![GitHub Streak](https://streak-stats.demolab.com?user=Harishmitha2007)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harishmitha2007&theme=dark)
 
 
 
