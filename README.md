@@ -28,4 +28,9 @@
    
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Harishmitha2007)
 
+  ## 📊 GitHub Stats
+
+![Harishmitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+
 ⭐ **Thank you for visiting my GitHub profile!** 
