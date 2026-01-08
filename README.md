@@ -2,25 +2,25 @@
  Welcome to my GitHub profile! Currently pursuing  B.Tech in Information Technology at KPR Institute of Engineering and Technology. Passionate about exploring and contributing to the world of technology.
  A passionate Frontend Developer 
  # 💫 About Me:
- 🎓 B.Tech in Information Technology
+ - 🎓 B.Tech in Information Technology
 
- 💼 Student
+ - 💼 Student
  
- 📫 Email:harishmithasmail@gmail.com  
+ - 📫 Email:harishmithasmail@gmail.com  
 
 # 🧰 Tools
-  Git & GitHub
+ - Git & GitHub
   
-  VS Code
+ - VS Code
   
-  Figma
+ - Figma
 
 # 🚀Goals
-   Become confident in frontend development
+  - Become confident in frontend development
 
-  Learn React in Future
+  - Learn React in Future
 
-  Grow into Full Stack Developer
+   - Grow into Full Stack Developer
 
  # 🌐 Connect with me:
 
