@@ -7,3 +7,11 @@
  💼 Student
  
  📫 Email:harishmithasmail@gmail.com  
+
+# 🧰 Tools
+  Git & GitHub
+  
+  VS Code
+  
+  Figma
+  
