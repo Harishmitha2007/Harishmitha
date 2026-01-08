@@ -21,4 +21,9 @@
   Learn React in Future
 
   Grow into Full Stack Developer
-  
+
+ # 🌐 Connect with me:
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harishmitha-s-342377328)
+
+ 
