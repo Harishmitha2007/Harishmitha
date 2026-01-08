@@ -35,8 +35,4 @@
 
    ![GitHub Streak](https://streak-stats.demolab.com?user=Harishmitha2007)
 
-
-
-
-
 ⭐ **Thank you for visiting my GitHub profile!** 
