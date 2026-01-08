@@ -25,5 +25,7 @@
  # 🌐 Connect with me:
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harishmitha-s-342377328)
+   
+  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Harishmitha2007)
 
  
