@@ -14,4 +14,11 @@
   VS Code
   
   Figma
+
+# 🚀Goals
+   Become confident in frontend development
+
+  Learn React in Future
+
+  Grow into Full Stack Developer
   
